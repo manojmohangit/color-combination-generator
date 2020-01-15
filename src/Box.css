@@ -1,0 +1,16 @@
+.box {
+    width: 13%;
+    height: 100vh;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+.box .color-content {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    color: black;
+    background-color: #e7e7e7;
+    width: 100%;
+    padding: 10px 0px;
+}
